@@ -5,8 +5,6 @@
  * 2. 매개변수의 타입이 호환되는가
  */
 
-import { type } from 'os';
-
 // 기준1. 반환값이 호환되는가
 type A = () => number;
 type B = () => 10;

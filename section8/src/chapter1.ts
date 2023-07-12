@@ -2,8 +2,6 @@
  * 인덱스드 엑세스 타입
  */
 
-import { type } from 'os';
-
 type PostList = {
   title: string;
   content: string;

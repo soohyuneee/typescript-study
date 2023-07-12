@@ -2,9 +2,6 @@
  * unknown 타입
  */
 
-import { AnyRecord } from 'node:dns';
-import { todo } from 'node:test';
-
 function unKnownExam() {
   let a: unknown = 1;
   let b: unknown = 'hello';
